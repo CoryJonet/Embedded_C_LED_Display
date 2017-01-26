@@ -1,0 +1,10 @@
+hw4_gpio.o: hw4_gpio.c
+hw4_gpio.o: hw4_gpio.h
+hw4_gpio.o: Q:\uVision4.5\ARM\RV31\Inc\stdint.h
+hw4_gpio.o: Q:\uVision4.5\ARM\RV31\Inc\stdbool.h
+hw4_gpio.o: gpio.h
+hw4_gpio.o: lm4f120h5qr.h
+hw4_gpio.o: led_chars.h
+hw4_gpio.o: Q:\uVision4.5\ARM\RV31\Inc\stdio.h
+hw4_gpio.o: UART.h
+hw4_gpio.o: Q:\uVision4.5\ARM\RV31\Inc\errno.h

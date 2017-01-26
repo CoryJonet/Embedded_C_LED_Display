@@ -1,0 +1,1 @@
+-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I Q:\uVision4.5\ARM\RV31\Inc -I Q:\uVision4.5\ARM\CMSIS\Include -I Q:\uVision4.5\ARM\Inc\Luminary -o "hw4_gpio.o" --omf_browse "hw4_gpio.crf" --depend "hw4_gpio.d" "hw4_gpio.c"
